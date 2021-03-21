@@ -1,5 +1,3 @@
-# angular-ivy-espbt9
-
 A Hands on project for Rx and RxJS.
 
 # RxJS
